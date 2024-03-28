@@ -1,6 +1,6 @@
-#Building a Microservices app with .Net and NextJS from scratch
+# Building a Microservices app with .Net and NextJS from scratch
 
-This project aims to see how to build a microservices based app using .Net for the backend services and Next.js for the client app. Here are some of the things that are covered in this project:
+## This project aims to see how to build a microservices based app using .Net for the backend services and Next.js for the client app. Here are some of the things that are covered in this project:
 
 Creating several backend services using .Net that provide functionality for the app
 Service to service communication using RabbitMQ and gRPC
